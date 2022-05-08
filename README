@@ -2,10 +2,5 @@ This repository contains the Backend skeleton of a simple Todo list app that ena
 and can be used with a frontend framework like angular or React 
 
 
-You should create a file named config.json in the config directory and write your custom username and password
-to be used by the index.js when retreiving data from the database 
 
-The structure of config.json should be like this :
-{uname:<your username>,
-pw:<your password>}
  
